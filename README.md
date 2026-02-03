@@ -1,4 +1,4 @@
-## Hi there I'm Hiba 👋
+## Hi there 👋 I'm Hiba 
 A dedicated Full-Stack Software Engineer with experience in modern technologies. Focused on writing clean code, learning quickly, and taking responsibility. Seeking to contribute to building reliable systems in a professional technology company.
 <!--
 **Hiba-GA/Hiba-GA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +29,4 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ا&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ا&icon=0&color=0)](https://visitcount.itsvg.in)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
