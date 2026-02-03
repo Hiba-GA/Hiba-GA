@@ -1,5 +1,5 @@
 ## Hi there I'm Hiba 👋
-
+A dedicated Full-Stack Software Engineer with experience in modern technologies. Focused on writing clean code, learning quickly, and taking responsibility. Seeking to contribute to building reliable systems in a professional technology company.
 <!--
 **Hiba-GA/Hiba-GA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
