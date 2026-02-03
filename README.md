@@ -118,6 +118,7 @@ University of Bahrain, Bahrain — *2025*
 <img src="https://github-readme-stats.vercel.app/api?username=Hiba-GA&show_icons=true&include_all_commits=true&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-GA&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hiba-GA" />
 
 ---
 
