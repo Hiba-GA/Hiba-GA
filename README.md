@@ -111,14 +111,6 @@ General Assembly, Bahrain — *Expected: Jan 2026*
 **Bachelor of Computer Science (Cloud Computing)**  
 University of Bahrain, Bahrain — *2025*
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiba-GA&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-GA&layout=compact&langs_count=8&cache_seconds=1800)
-
 
 ---
 
